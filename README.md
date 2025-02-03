@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 # 👋 Hi, I'm Balaji D – AI/ML Developer 🚀
 
 ## 💫 About Me:
