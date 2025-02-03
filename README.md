@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 # 👋 Hi, I'm Balaji D – AI/ML Developer 🚀
 
 ## 💫 About Me:
