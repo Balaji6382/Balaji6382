@@ -1,4 +1,7 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+
+
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+👋+there%2C+I'm+Balaji+D+-+AI/ML+Developer+🚀+%F0%9F%91%8B)
 # 👋 Hi, I'm Balaji D – AI/ML Developer 🚀
 
 ## 💫 About Me:
