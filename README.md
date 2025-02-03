@@ -2,6 +2,7 @@
 
 
 # 👋 Hi, I'm Balaji D – AI/ML Developer 🚀
+Welcome to my GitHub profile! I'm a passionate and dedicated computer science student with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
 
 ## 💫 About Me:
 🧠 Innovating with AI | 💡 Solving Real-World Problems | 🌍 Building Intelligent Solutions  
