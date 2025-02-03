@@ -1,4 +1,6 @@
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="Animated GIF" style="width: 1080px; height: auto;">
+
+
 
 
 # 👋 Hi, I'm Balaji D – AI/ML Developer 🚀
