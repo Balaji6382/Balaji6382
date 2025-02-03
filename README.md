@@ -54,12 +54,16 @@ Let’s collaborate, innovate, and shape the future together! 🤖✨
 </picture>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Balaji6382&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Balaji6382&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji6382&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Keep coding, stay curious, and never stop learning! 🚀✨
 
----
-[![](https://visitcount.itsvg.in/api?id=Balaji6382&icon=10&color=0)](https://visitcount.itsvg.in)
+![Nomaan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
+
+![Nomaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nian&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+
+![Nomaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
+
+[![Nomaan's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=coder-nian&label=Profile%20views&color=0e75b6&style=flat" alt="coder-nian" /></p>
