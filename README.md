@@ -77,17 +77,6 @@ Let’s collaborate, innovate, and shape the future together! 🤖✨
 
 ---
 
-## 🏅 GitHub Stats:
-![Nomaan's Streak](https://streak-stats.demolab.com?user=coder-nian&theme=radical&card_width=1080)
-
-![Nomaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-nian&show_icons=true&theme=radical&card_width=1080)
-
-![Nomaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-nian&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
-
-![Nomaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nian&layout=compact&theme=radical&card_width=1080)
-
-[![Nomaan's Holopin board](https://holopin.me/nian)](https://holopin.io/@nian)
-
 ---
 
 <p align="left">
